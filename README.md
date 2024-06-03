@@ -2,7 +2,7 @@
 
 ### Description
 
-The UW HYAK team's non-comprehensive adaptation of Software Carpentry "Plotting and Programming in Python" Jupyter Notebooks for training purposes. Please see the included Software Carpentry LICENSE.md included in this repository for more information and links to the original materials. 
+The UW HYAK team's non-comprehensive adaptation of Software Carpentry "Plotting and Programming in Python" Jupyter Notebooks for training purposes. Please see the Software Carpentry LICENSE.md included in this repository for more information and links to the original materials. 
 
 ### What's Here? 
 
