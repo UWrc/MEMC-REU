@@ -1,8 +1,8 @@
-# Plotting and Programming in Python from Software Carpentry
+# Basic Python Programming
 
 ### Description
 
-The UW HYAK team's non-comprehensive adaptation of Software Carpentry "Plotting and Programming in Python" Jupyter Notebooks for training purposes. Please see the Software Carpentry LICENSE.md included in this repository for more information and links to the original materials. 
+The UW HYAK team's non-comprehensive adaptation of Software Carpentry "Plotting and Programming in Python" Jupyter Notebooks for the CEI REU workshop held on June 20, 2024. Please see the Software Carpentry LICENSE.md included in this repository for more information and links to the original materials. 
 
 ### What's Here? 
 
@@ -12,7 +12,7 @@ The UW HYAK team's non-comprehensive adaptation of Software Carpentry "Plotting 
 
 * Notebooks starting **S00-S08** are duplicates of the Notebooks starting **00-08**, but this set of Notebooks include the solutions to the Exercises. 
 
-
+* Notebooks starting **09-10** provide plotting examples from Gaussian outputs. 
 
 
 
