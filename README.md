@@ -1,14 +1,15 @@
 # Clean Energy Institute REU 
 
-### Description
-TODO
-
 ### What's here? 
 
-1. python_plotting sub directory
-    * Jupyter notebooks adapted from  Software Carpentry's "Plotting and Programming in Python"
+1. python_plotting subdirectory - these materials accompany the "Basic Python Programming" workshop held on June 20, 2024. 
+    * Jupyter notebooks (00-08) are adapted from  Software Carpentry's "Plotting and Programming in Python".
+        * The notebooks are meant to be a resource for your reference after the workshop has concluded.
+        * The workshop will be a hands on coding demonstration. 
+        * The notebooks include additional practice exercises. 
+    * Jupyter notebooks (09-10) demonstrate some methods to plot vibrational spectra and long-range spectra outputs from Gaussian. 
 
-2. Using Quantum Chemistry Software
+2. Using_Quantum_Chemistry_Software subdirectory - these materials accompany the "Using Gaussian for Computational Chemistry" workshop held on June 27, 2024. 
     
     1. Chem_Software_Hyak.pdf
     
@@ -21,12 +22,8 @@ TODO
 
         This file will allow slurm submission of the ethane.gjf file
 
-    2. Pseudopotential .upf files
+    3. Pseudopotential .upf files
 
         The extra files used in the Quantum Espresso portion of the example.
 
-3. TODO
 
-4. TODO
-
-TODO - re order the above to fit the workshop order. 
