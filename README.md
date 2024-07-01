@@ -26,4 +26,4 @@
 
         The extra files used in the Quantum Espresso portion of the example.
 
-
+3. Data analysis in Python using regression analysis in `scikit-learn` and neural networks with `PyTorch`.
