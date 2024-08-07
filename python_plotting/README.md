@@ -6,7 +6,7 @@ The UW HYAK team's non-comprehensive adaptation of Software Carpentry "Plotting 
 
 ### What's Here? 
 
-***Jupyter Notebooks*** that walk through basic Python foundational concepts, data structures, and eplores some methods for plotting with matplotlib. 
+***Jupyter Notebooks*** that walk through basic Python foundational concepts, data structures, and explores some methods for plotting with matplotlib. 
     
 * Notebooks starting **00-08** can be followed workbook style by running the code blocks to demonstrate presented concepts. This set of Notebooks excludes the solutions to the Exercises. 
 
