@@ -27,3 +27,8 @@
 4. **analysis sub-directory - these material accompany WS 4 "Data Analysis Basics in Python with `scikit-learn` and `PyTorch`" workshop held on July 1, 2024.**
 * Complete Jupyter Notebook
 * Jupyter Notebook with "TODO" or in-session code boxes for demonstration. 
+
+License information: 
+* Locator Neural Network is a copyright 2019 of C. J. Battey and released under a Non-Profit Open Software License 3.0 (NPOSL-3.0).
+* Our adaptation of *Populus trichocarpa* genotype data and locations are licensed under a CC0 1.0 Universal (CC0 1.0) Public Domain Dedication license.
+* Some of the data and exercises used in WS 1 and WS 2 (above) are under the Copyright of Software Carpentry and are made available under the Creative Commons Attribution license (CC BY 4.0).
