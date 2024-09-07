@@ -1,4 +1,4 @@
-# Clean Energy Institute REU 
+# The UW Clean Energy Institute (CEI) and Molecular Engineering and Materials Center (MEMC) Research Experience for Undergraduates (REU) Workshop Materials
 
 ### What's here? 
 
