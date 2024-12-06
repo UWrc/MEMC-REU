@@ -1,4 +1,4 @@
-# Establishing your connection to the University of Washington VPM
+# Starting a Jupyter Notebook Session on Hyak's Open OnDemanc Platform
 
 Connect to University of Washington's OnDemand services for HYAK by pointing your browser to this link: 
 
