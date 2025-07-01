@@ -19,7 +19,11 @@ Introductory materials include:
     * Notebooks starting **S01-S08** are duplicates of the Notebooks starting **01-08**, but this set of Notebooks include the solutions to the Exercises. 
 * The notebooks are meant to be a resource for your reference after the workshop has concluded. The workshop will be a hands on coding demonstration. The notebooks include additional practice exercises. 
 
-3. TO DO
+3. [<ins>**python_plotting subdirectory**</ins>](https://github.com/UWrc/MEMC-REU/tree/main/python_plotting)
+* Learning materials were adapted from [<ins>**"Plotting and Programming in Python"**</ins>](https://swcarpentry.github.io/python-novice-gapminder/index.html) by Software Carpentry and [<ins>**"Python Data Science Handbook"**</ins>](https://jakevdp.github.io/PythonDataScienceHandbook/index.html) by Jake VanderPlas.
+    * Notebook starting **00-02** can be followed workbook style by running the code blocks to demonstrate presented concepts.
+    * Notebook starting **S00-S02** are duplicates of the Notebooks starting 01-08, with the solutions to the Exercises included.
+* The notebooks are meant to be a resource for your reference after the workshop has concluded. The workshop will be a hands on coding demonstration. The notebooks include additional practice exercises.
 
 4. **analysis sub-directory**
 * Complete Jupyter Notebook
